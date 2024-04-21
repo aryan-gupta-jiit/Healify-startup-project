@@ -1,6 +1,6 @@
 # Healify-startup-project
 
-Introduction
+<b>Introduction</b><br>
 In the fast-paced world of healthcare, optimizing time is crucial for both patients and medical professionals. This document presents a comprehensive solution aimed at reducing time constraints in medical processes for both patients and hospitals. By utilizing technology and streamlined processes, we aim to enhance patient care, increase efficiency, and improve resource allocation.
 
 Patient-Centric Solutions
